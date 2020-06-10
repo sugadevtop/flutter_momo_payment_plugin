@@ -1,6 +1,6 @@
 class MomoPaymentResult {
   bool isSuccess;
-  int status;
+  dynamic status;
   String token;
   String phonenumber;
 
